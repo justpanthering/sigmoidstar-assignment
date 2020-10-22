@@ -1,4 +1,4 @@
-##IMPORTANT NOTE:
+## IMPORTANT NOTE:
 
 1. Task 1 assignment [here on this page iteslf](https://github.com/justpanthering/sigmoidstar-assignment)
 2. Task 2 assignment python code is in the [/backend](https://github.com/justpanthering/sigmoidstar-assignment/tree/main/backend) folder
