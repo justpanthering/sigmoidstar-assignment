@@ -1,0 +1,28 @@
+.Sidedrawer{
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: var(--primary-color);
+  height: 100vh;
+  width: 50%;
+  z-index: 5;
+}
+
+.Navitems ul{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+.Navitems li{
+  margin-top: 1.75rem;
+}
+
+@media screen and (min-width: 770px){
+  .Sidedrawer{
+    display: none;
+  }
+}

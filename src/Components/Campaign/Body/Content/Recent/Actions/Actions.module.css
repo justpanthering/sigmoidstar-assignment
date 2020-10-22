@@ -1,0 +1,8 @@
+.Actions{
+  display: flex;
+  align-items: center;
+}
+
+.ActionsItem{
+  margin-left: 0.75rem;
+}

@@ -1,0 +1,36 @@
+.Header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: gray;
+}
+
+.FormGroup{
+  display: flex;
+  justify-content: space-between;
+}
+
+.Form{
+  display: flex;
+}
+
+.SubmitBtn{
+  margin-left: 0;
+}
+
+.CreateBtn{
+  margin-left: 1rem;
+}
+
+@media screen and (max-width: 770px){
+  .Header{
+    flex-direction: column;
+  }
+  .FormGroup{
+    flex-direction: column;
+  }
+  .CreateBtn{
+    margin-left: 0;
+    margin-top: 1rem;
+  }
+}

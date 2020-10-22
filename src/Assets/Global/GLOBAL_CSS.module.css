@@ -1,0 +1,44 @@
+/* 
+Typography
+*/
+
+p{
+  font-size: 0.875rem;
+}
+
+ul{
+  font-size: 0.875rem;
+}
+
+h1{
+  font-size: 4.5rem;
+}
+
+h2{
+  font-size: 3rem;
+}
+
+h3{
+  font-size: 1.5rem;
+}
+
+a{
+  text-decoration: none;
+}
+
+/* 
+
+*/
+
+.Title{
+
+}
+
+.Content{
+  margin-top: 3.5rem;
+}
+
+section{
+  display: flex;
+  padding: 7rem 0;
+}

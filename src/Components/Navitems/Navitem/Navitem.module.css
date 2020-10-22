@@ -1,0 +1,8 @@
+.Navitem{
+  margin-left: 1.5rem;
+}
+
+.Navitem a{
+  text-decoration: none;
+  color: var(--primary-color-text);
+}

@@ -1,0 +1,12 @@
+.PaginationContainer{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.Pagination{
+  display: flex;
+  align-items: center;
+  width: 15%;
+  justify-content: space-between;
+}

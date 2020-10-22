@@ -1,0 +1,32 @@
+.Toolbar{
+  background: var(--primary-color);
+  color: var(--primary-color-text);
+
+  padding: 1rem 1.5rem;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Navitems{
+  display: none;
+}
+
+.MenuBtn{
+  font-size: 1.75rem;
+  background: transparent;
+  border: none;
+  color: var(--primary-color-text);
+}
+
+@media screen and (min-width: 770px){
+  .MenuBtn{
+    display: none;
+  }
+  .Navitems{
+    display: flex;
+    align-self: center;
+  }
+}

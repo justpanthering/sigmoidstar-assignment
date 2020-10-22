@@ -1,0 +1,15 @@
+.Backdrop{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vh;
+  height: 100vh;
+  z-index: 4;
+  backdrop-filter: blur(10px); 
+}
+
+@media screen and (min-width:770px){
+  .Backdrop{
+    display: none;
+  }
+}
