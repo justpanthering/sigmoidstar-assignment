@@ -1,3 +1,12 @@
+##IMPORTANT NOTE:
+
+1. Task 1 assignment [here on this page iteslf](https://github.com/justpanthering/sigmoidstar-assignment)
+2. Task 2 assignment python code is in the [/backend](https://github.com/justpanthering/sigmoidstar-assignment/tree/main/backend) folder
+3. Task 3 assignemnt python code is in the [/task_3](https://github.com/justpanthering/sigmoidstar-assignment/tree/main/task_3) folder
+
+Plase make sure to run the backend @ localhost port 5000, or change the proxy port accordingly in the package.json in the react frontend project
+Please use python3.x to run assignment 3.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
